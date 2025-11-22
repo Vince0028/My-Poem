@@ -1,3 +1,5 @@
+The git and me 
+
 Git is cool
 Git is fun
 GIt is easy to learn
