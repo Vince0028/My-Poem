@@ -3,4 +3,5 @@ The git and me
 Git is cool
 Git is fun
 GIt is easy to learn
+i've learned a lot 
 I will use git for the greater good
