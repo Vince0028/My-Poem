@@ -1,4 +1,5 @@
 The git and me and the pony
+Today is earth day
 
 Git is cool
 Git is fun
